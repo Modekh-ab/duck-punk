@@ -21,8 +21,8 @@ import org.jetbrains.annotations.Nullable;
 
 public class DuckPunkBlock extends HorizontalDirectionalBlock {
     public static final VoxelShape SHAPE = Block.box(
-            0.0D, 0.0D, 0.0D, // origin: (0, 0, 0)
-            16.0D, 3.0D, 16.0D // sizes: x, y, z
+            3D, 0.0D, 3.0D, // origin: (x, y, z)
+            14.0D, 10.0D, 13.0D // sizes: x, y, z
     );
 
     public DuckPunkBlock(Properties properties) {
