@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "duckpunk:block/duck_punk"
+        },
+        "facing=east": {
+            "model": "duckpunk:block/duck_punk",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "duckpunk:block/duck_punk",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "duckpunk:block/duck_punk",
+            "y": 270
+        }
+    }
+}

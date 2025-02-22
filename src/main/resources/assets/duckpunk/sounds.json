@@ -1,0 +1,19 @@
+{
+  "punk_rock": {
+    "subtitles": "sounds.duckpunk.punk_rock",
+    "sounds": [
+      "duckpunk:punk_rock/0",
+      "duckpunk:punk_rock/1"
+    ]
+  },
+  "hoi": {
+    "subtitles": "sounds.duckpunk.hoi",
+    "sounds": [
+      "duckpunk:hoi/0",
+      "duckpunk:hoi/1",
+      "duckpunk:hoi/2",
+      "duckpunk:hoi/3",
+      "duckpunk:hoi/4"
+    ]
+  }
+}
